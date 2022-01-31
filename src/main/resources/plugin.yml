@@ -1,0 +1,9 @@
+name: MenuItem
+version: '${project.version}'
+main: com.grieferpig.menuitem.MenuItem
+authors: [ GrieferPig ]
+description: Menu Shortcut
+commands:
+  doPinkiePromise:
+    description: Isn't she cute? uwu
+    usage: /doPinkiePromise
